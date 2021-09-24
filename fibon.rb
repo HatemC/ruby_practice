@@ -23,3 +23,9 @@ number =gets.chomp.to_i
 result_array= fibon(number)
 result=result_array[number]
 puts result
+
+
+
+
+
+
